@@ -4,7 +4,7 @@ Collection of Tweaks for Lyrics Translate.
 
 ## Disable Copy Protection
 
-### Description
+### Overview
 
 Disables the copy protection for [lyricstranslate.com](https://lyricstranslate.com), allowing you to copy full song lyrics.
 
