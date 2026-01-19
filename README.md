@@ -1,4 +1,4 @@
-# LyricsTranslate-Tweaks
+# Lyrics-Translate-Tweaks
 
 Collection of Tweaks for Lyrics Translate.
 
