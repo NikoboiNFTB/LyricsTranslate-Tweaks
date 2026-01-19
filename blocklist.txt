@@ -1,0 +1,6 @@
+! --- Lyrics Translate Filter by Nikoboi ---
+
+lyricstranslate.com##+js(aeld, copy)
+lyricstranslate.com##+js(aeld, beforecopy)
+
+! --- Lyrics Translate Filter by Nikoboi ---
