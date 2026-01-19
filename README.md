@@ -8,7 +8,7 @@ Collection of Tweaks for Lyrics Translate.
 
 Disables the copy protection for [lyricstranslate.com](https://lyricstranslate.com), allowing you to copy full song lyrics.
 
-**Disable Copy Protection** can be installed as a minimal userscript ([click here](https://github.com/NikoboiNFTB/LyricsTranslate-Tweaks/raw/refs/heads/main/allow-copying-1.0.user.js)).
+Can be installed as a minimal userscript ([click here](https://github.com/NikoboiNFTB/LyricsTranslate-Tweaks/raw/refs/heads/main/allow-copying-1.0.user.js)).
 
 Alternatively, just add the following filters to [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/):
 
@@ -17,7 +17,7 @@ lyricstranslate.com##+js(aeld, copy)
 lyricstranslate.com##+js(aeld, beforecopy)
 ```
 
->> Recommended over the userscript. It's more set-it-and-forget-it. An **Import and append…** file can be found at [blocklist.txt](blocklist.txt).
+Recommended over the userscript. It's more robust and more set-it-and-forget-it. An **Import and append…** file can be found at [blocklist.txt](blocklist.txt).
 
 The userscript is untested on mobile, but **the blocklist works on desktop and mobile**.
 
