@@ -13,14 +13,8 @@ Disables the copy protection for [lyricstranslate.com](https://lyricstranslate.c
 **Lyrics Translate - Disable Copy Protection** can be installed as a minimal userscript ([install](https://github.com/NikoboiNFTB/LyricsTranslate-Tweaks/raw/refs/heads/main/allow-copying-1.0.user.js)). Alternatively, just add the following filters to [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/):
 
 ```text
-
-! --- Lyrics Translate Filter by Nikoboi ---
-
 lyricstranslate.com##+js(aeld, copy)
 lyricstranslate.com##+js(aeld, beforecopy)
-
-! --- Lyrics Translate Filter by Nikoboi ---
-
 ```
 
 >> Recommended over the userscript. Import and append… file can be found at [blocklist.txt](blocklist.txt).
@@ -30,7 +24,6 @@ lyricstranslate.com##+js(aeld, beforecopy)
 Normally, when you copy more than two verses you get:
 
 ```text
-
 Ich leb noch immer bei Mama
 Jetzt schon alt, doch immer da
 Auch wenn die Ärmel jetzt länger sind
@@ -40,13 +33,11 @@ Wir sind allein, doch viel zu zweit
 Und teilen gern ein halbes Leid
 Das Haus ist klein,
 https://lyricstranslate.com/en/rammstein-meine-tranen-lyrics.html
-
 ```
 
 But with Disable Copy Protection you can copy the entire text:
 
 ```text
-
 Ich leb noch immer bei Mama
 Jetzt schon alt, doch immer da
 Auch wenn die Ärmel jetzt länger sind
@@ -92,7 +83,6 @@ Deine Tränen
  
 Deine Tränen
 Deine Tränen
-
 ```
 
 ## File Tree
@@ -114,7 +104,8 @@ Feel free to fork this repository and submit issues or pull requests if you have
 ## Credits
 
 Created by **[Nikoboi](https://github.com/NikoboiNFTB/)**
-Script coughed up by 
+
+Script and filters coughed up by **[ChatGPT](https://chatgpt.com/)**
 
 ## License
 
