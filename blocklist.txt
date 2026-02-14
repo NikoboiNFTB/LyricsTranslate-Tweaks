@@ -1,7 +1,5 @@
-
-! --- Lyrics Translate Filter by Nikoboi ---
-
+! --- Lyrics Translate Filters by Nikoboi --- !
+! Both of these just prevent the site from fucking with the copy function.
 lyricstranslate.com##+js(aeld, copy)
 lyricstranslate.com##+js(aeld, beforecopy)
-
-! --- Lyrics Translate Filter by Nikoboi ---
+! --- Lyrics Translate Filters by Nikoboi --- !
